@@ -1,0 +1,17 @@
+.venv/
+.venv*/
+__pycache__/
+*.py[cod]
+.idea/
+.serena/
+data/
+outputs/
+*.pt
+*.onnx
+*.zip
+classes.txt
+opencode-proxy.cmd
+AGENTS.md
+tests/TEST_REPORT.md
+tests/diag_yolo_raw.py
+tests/backfill_classes_txt.py
